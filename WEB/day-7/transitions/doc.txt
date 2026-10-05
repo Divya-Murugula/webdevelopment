@@ -1,0 +1,35 @@
+.{any word } creates div class
+for youtube videos :: iframe   <iframe src=" " https:/>/youtube.com/embed/{frame key}">
+li*{number of times you want} and then enter
+
+
+
+Transitions:
+Enable to define transition between two states of an element
+
+> transition-property : font-size,width etc..
+> transition-duration : 2s/4ms ..
+> transition-timing-function : ease-in/ease-out/linear/steps...
+>transition-delay : 2s/4ms..
+
+
+Transform:
+apply 2d and 3d transformations to element
+
+>rotate : 
+transform: rotate(45deg)
+>scale
+ transform:scale(2)
+ transform:scale(0.5)
+ transform:scale(1,2)
+ transform:scaleX(0.5)
+ transform:scaleY(0.5)
+
+>translate
+transform:translate(20px)
+transform:translate(20px,40px)
+transform:translateX(20px)
+transform:translateY(20px)
+
+>skew
+transform:skew(30deg)

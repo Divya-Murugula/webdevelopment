@@ -1,0 +1,18 @@
+div{
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+    border-radius: 20px;
+    transition-property: all;
+    transition-duration: 3s;
+    transition-delay: 2s;
+}
+
+div:hover{
+    background-color: rgb(11, 229, 109);
+    font-size: 200px;
+}
+
+div:active{
+    background-color: blue;
+}
